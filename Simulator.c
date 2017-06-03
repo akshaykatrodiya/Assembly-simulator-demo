@@ -1,10 +1,3 @@
-/*
-Name: Akshay Katrodiya
-Student ID: N03545629
-Course: Computer System
-Assignment: Simulator program
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
